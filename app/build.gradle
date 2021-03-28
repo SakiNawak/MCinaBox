@@ -19,7 +19,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 22
         versionCode 8
-        versionName '0.1.4-p5'
+        versionName 'drunk-0.0.1'
     }
 
     buildFeatures {
